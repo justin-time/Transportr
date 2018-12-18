@@ -300,6 +300,8 @@ and always knows where you are to not miss where to get off the bus.
 
 	<string name="np_region_germany">Germany</string>
 	<string name="np_desc_avv">Augsburg</string>
+	<string name="np_name_avvaachen" translatable="false">AVV Aachen</string>
+	<string name="np_desc_avvaachen">Aachen, Düren, Heinsberg</string>
 	<string name="np_name_bayern" translatable="false">BEG</string>
 	<string name="np_desc_bayern">Bavaria, Würzburg, Regensburg</string>
 	<string name="np_name_bsvag" translatable="false">BSVG</string>

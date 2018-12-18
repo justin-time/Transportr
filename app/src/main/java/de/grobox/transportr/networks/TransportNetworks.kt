@@ -87,6 +87,13 @@ private val networks = arrayOf(
                         factory = { AvvProvider() }
                     ),
                     TransportNetwork(
+                        id = NetworkId.AVV_AACHEN,
+                        description = R.string.np_desc_avvaachen,
+                        logo = R.drawable.network_avvaachen_logo,
+                        status = BETA,
+                        factory = { AvvAachenProvider() }
+                    ),
+                    TransportNetwork(
                         id = NetworkId.MVV,
                         description = R.string.np_desc_mvv,
                         logo = R.drawable.network_mvv_logo,
